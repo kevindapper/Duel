@@ -1,5 +1,5 @@
 # Duel
-A player vs computer turn based game. Final project for CSIS 1410 during Spring 2020 semester at Salt Lake Community College. Code written by Kevin Dapper and Quentin Howa
+A player vs computer turn based game. Final project for CSIS 1410 during Spring 2020 semester at Salt Lake Community College. Code written by Kevin Dapper and Quentin Howa.
 # Motivation
 Final project for CSIS 1410 class at SLCC. The idea was chosen to create a simple game that had strong core mechanics, but maliable enough to be expanded upon.
 # Build Status
